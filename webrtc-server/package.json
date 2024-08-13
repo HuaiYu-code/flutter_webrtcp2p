@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "serve-index": "^1.9.1",
+    "socket.io": "^4.7.5",
+    "ws": "^8.17.1"
+  },
+  "keywords": [],
+  "description": ""
+}
